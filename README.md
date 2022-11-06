@@ -11,10 +11,9 @@
  
  <br>
  
-  Construindo conhecimento de forma autodidata, a melhor frontend que você vai contratar!
+  Construindo conhecimento de forma autodidata!
  
 <div> 
-    <a href="https://instagram.com/fuzatinho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:paula_fuzati@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paula-fuzati-220060256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
